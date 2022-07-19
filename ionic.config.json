@@ -1,0 +1,7 @@
+{
+  "name": "planTravel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
